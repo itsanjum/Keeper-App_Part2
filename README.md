@@ -1,4 +1,14 @@
-# React + Vite
+# Keeper App Project - Part 2
+
+This is the Keeper app part 2
+
+# Key Takeaways
+- Applied props and mapping to render dynamic Note components in the Keeper app.
+- Passed custom title and content props to Note components for dynamic rendering.
+- Used the map function to iterate over an array of notes and render multiple Note components.
+- Implemented unique key props for each Note component to satisfy React's requirements and avoid console errors.
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
